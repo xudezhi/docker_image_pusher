@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-alpine/java:11
+# alpine/java:11
+apache/kafka:3.9.0
