@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # alpine/java:11
-apache/kafka:3.9.0
+# apache/kafka:3.9.0
+prom/prometheus:v3.7.0-rc.0
